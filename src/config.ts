@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: false,
     text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
