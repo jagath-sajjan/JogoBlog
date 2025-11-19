@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://jogoblogs.vercel.app/", // replace this with your deployed domain
+  website: "https://jogo-blog.vercel.app/", // replace this with your deployed domain
   author: "Jagath Sajjan",
   profile: "https://github.com/jagath-sajjan",
   desc: "Jagath Sajjan's Blogs Are Here",
